@@ -1,0 +1,9 @@
+[user]
+	name = Patricio Hernandez Senosiain
+    email = hdzsen.patricio@gmail.com
+[github]
+    user = patohdzs
+[init]
+	defaultBranch = main
+[core]
+	excludesfile = ~/.gitignore
