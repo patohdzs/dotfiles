@@ -26,9 +26,6 @@ export PATH="$HOME/.juliaup/bin:$PATH"
 # Alias for dotfiles
 alias config='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 
-# Alias to use eza instead of ls
-# alias ls='eza --group-directories-first --icons=always'
-
 # Alias for activating Python virtual environments
 function venv(){
     if [ -d "./.venv" ]; then
