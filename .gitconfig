@@ -6,4 +6,8 @@
 [init]
 	defaultBranch = main
 [core]
-	excludesfile = ~/.gitignore
+    excludesfile = ~/.gitignore
+[color]
+    branch = true
+    diff   = true
+    status = true

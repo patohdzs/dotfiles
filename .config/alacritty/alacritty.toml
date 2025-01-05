@@ -1,7 +1,3 @@
-# Imports
-import = [
-    "~/.config/alacritty/theme.toml"
-]
 
 [env]
 TERM = "xterm-256color"
@@ -32,4 +28,10 @@ style = "Italic"
 [font.normal]
 family = "MesloLGS Nerd Font Mono"
 style = "Regular"
+
+[general]
+# Imports
+import = [
+    "~/.config/alacritty/theme.toml"
+]
 
