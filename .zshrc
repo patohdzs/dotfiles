@@ -36,7 +36,7 @@ function venv(){
 }
 
 # Alias for opening R console
-alias R='radian --no-save'
+alias R='R --no-save'
 
 # Set up fzf key bindings and fuzzy completion
 source <(fzf --zsh)
